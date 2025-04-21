@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.env/*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Databases
+*.sqlite
+*.db
+
+# macOS
+.DS_Store
+
+# dotenv
+.env
+
+# Model & training artifacts
+checkpoints/
